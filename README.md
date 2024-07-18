@@ -24,7 +24,7 @@ The Numbers screen shows Japanese numbers with images and audio pronunciation.
 The Family Members screen displays Japanese terms for family members with images and audio pronunciation.
 
 ### Colors Screen
-<img src="assets/Screen_Shot/Color_View.pngg" width="200">
+<img src="assets/Screen_Shot/Color_View.png" width="200">
 The Colors screen shows the names of different colors in Japanese with images and audio pronunciation.
 
 ### Phrases Screen
